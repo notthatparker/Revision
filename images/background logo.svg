@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="436px" height="326px" viewBox="0 0 436 326" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>logo ver3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-18.0%" y="-23.8%" width="135.9%" height="147.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="-4" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.301960784   0 0 0 0 1  0 0 0 0.296000874 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <radialGradient cx="46.9099126%" cy="87.1764044%" fx="46.9099126%" fy="87.1764044%" r="102.024013%" gradientTransform="translate(0.469099,0.871764),scale(0.977138,1.000000),rotate(69.555622),scale(1.000000,1.557454),translate(-0.469099,-0.871764)" id="radialGradient-2">
+            <stop stop-color="#0020FF" offset="0%"></stop>
+            <stop stop-color="#455CFF" stop-opacity="0.792832168" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="46.9099126%" cy="87.1764044%" fx="46.9099126%" fy="87.1764044%" r="146.814248%" gradientTransform="translate(0.469099,0.871764),scale(0.312516,1.000000),rotate(40.628157),scale(1.000000,1.557454),translate(-0.469099,-0.871764)" id="radialGradient-3">
+            <stop stop-color="#0020FF" offset="0%"></stop>
+            <stop stop-color="#455CFF" stop-opacity="0.792832168" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="46.9099126%" cy="87.1764044%" fx="46.9099126%" fy="87.1764044%" r="151.366629%" gradientTransform="translate(0.469099,0.871764),scale(0.296716,1.000000),rotate(39.165598),scale(1.000000,1.557454),translate(-0.469099,-0.871764)" id="radialGradient-4">
+            <stop stop-color="#0020FF" offset="0%"></stop>
+            <stop stop-color="#455CFF" stop-opacity="0.792832168" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="46.9099126%" cy="87.1764044%" fx="46.9099126%" fy="87.1764044%" r="124.065549%" gradientTransform="translate(0.469099,0.871764),scale(0.440350,1.000000),rotate(50.402570),scale(1.000000,1.557454),translate(-0.469099,-0.871764)" id="radialGradient-5">
+            <stop stop-color="#0020FF" offset="0%"></stop>
+            <stop stop-color="#455CFF" stop-opacity="0.792832168" offset="100%"></stop>
+        </radialGradient>
+        <filter x="-12.9%" y="-29.3%" width="125.8%" height="158.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="3.4776" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.324474516">
+        <g id="Desktop-HD" transform="translate(-380.000000, -220.000000)">
+            <g id="Group" transform="translate(194.000000, 130.000000)">
+                <g id="upload-field" transform="translate(173.000000, 104.000000)">
+                    <g id="logo-ver3" filter="url(#filter-1)" transform="translate(47.000000, 0.000000)">
+                        <path d="M154.255046,20.3176302 C154.266837,20.3238923 154.278625,20.3301602 154.271598,20.3717718 L154.294152,20.383778 C174.436479,31.1515491 182.090973,56.1882857 171.413482,76.378615 L111.327,189.516302 L221.53656,189.516594 C244.392003,189.516594 262.92,208.044591 262.92,230.900034 L262.92,231.000951 C262.92,253.856394 244.392003,272.384391 221.53656,272.384391 L41.38344,272.384391 C18.5279972,272.384391 3.12206939e-14,253.856394 2.84217094e-14,231.000951 L2.84217094e-14,230.900034 C2.71719571e-14,220.695032 3.69381725,211.352767 9.81736871,204.137322 L98.3309291,37.4745411 C109.01579,17.2704171 134.069699,9.59741339 154.255046,20.3176302 Z" id="Combined-Shape" fill="url(#radialGradient-2)"></path>
+                        <path d="M242.780254,106.434494 L424.867498,106.434494 C447.722941,106.434494 466.250938,124.962491 466.250938,147.817934 L466.250938,147.822165 C466.250938,170.677608 447.722941,189.205605 424.867498,189.205605 L242.780254,189.205605 C219.924811,189.205605 201.396814,170.677608 201.396814,147.822165 L201.396814,147.817934 C201.396814,124.962491 219.924811,106.434494 242.780254,106.434494 Z" id="Rectangle" fill="url(#radialGradient-3)" transform="translate(333.823876, 147.820049) rotate(270.000000) translate(-333.823876, -147.820049) "></path>
+                        <path d="M79.7148754,102.410168 L276.36289,102.319748 C299.218313,102.270267 317.754827,120.789743 317.765336,143.645183 C317.765342,143.65818 317.765342,143.671177 317.726363,143.684155 L317.726352,143.706976 C317.676325,166.547172 299.163151,185.059928 276.322954,185.10944 L79.6767808,185.199859 C56.8213579,185.248421 38.2848434,166.728945 38.2743343,143.873505 C38.2743284,143.860814 38.2743284,143.848124 38.3123872,143.835452 L38.3123977,143.812632 C38.3609953,120.972075 56.8743185,102.458758 79.7148754,102.410168 Z" id="Rectangle" fill="url(#radialGradient-4)" transform="translate(178.019836, 143.759804) scale(-1, 1) rotate(-244.000000) translate(-178.019836, -143.759804) "></path>
+                        <polygon id="Path" fill="url(#radialGradient-5)" filter="url(#filter-6)" points="111.323382 189.372954 91.2295553 224.936395 171.991284 224.936395 154.215975 189.372954"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
